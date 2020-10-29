@@ -1,5 +1,5 @@
 # SwiftLib
-Sample on creating your first Swift library
+An example on creating your first Swift library
 
 
 Purpose:
